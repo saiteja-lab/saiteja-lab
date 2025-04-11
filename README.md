@@ -4,7 +4,7 @@
 💡 I build AI, Web, and Cloud-based projects with a focus on usability and performance.  
 🌱 Currently learning: Cloud Computing, Dynamic Programming, and Graph Algorithms  
 👨‍💻 Hackathons | Open Source Enthusiast | Fast Learner  
-📫 How to reach me: [Email](mailto:saitejakota209@gmail.com)
+📫 How to reach me: [saitejakota209@gmail.com](mailto:saitejakota209@gmail.com)
 
 ### 🔧 Tech Stack:
 - 🌐 Frontend: React, HTML, CSS, JavaScript
