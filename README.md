@@ -7,6 +7,7 @@
 📫 How to reach me: [saitejakota209@gmail.com](mailto:saitejakota209@gmail.com)
 
 ### 🔧 Tech Stack:
+- 👨‍💻 Languages: C++, Java, Python
 - 🌐 Frontend: React, HTML, CSS, JavaScript
 - 🧠 AI/ML: Python, Scikit-learn, Mistral, LLaMA, TensorFlow
 - 🔙 Backend: Flask, Spring Boot, Express.js
