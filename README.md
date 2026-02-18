@@ -43,7 +43,7 @@ Currently improving:
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>
 </p>
 
 ### Databases & Cache
